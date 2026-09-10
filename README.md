@@ -1,94 +1,108 @@
 <p align="center">
-  <img src="https://github.com/ulugbekivich/ulugbekivich/blob/main/assets/github.gif" alt="Hi, I'm Shaydullayev 👋">
+  <img src="https://raw.githubusercontent.com/AzamjonShaydullayev/AzamjonShaydullayev/main/assets/github.gif" alt="Hi, I'm Shaydullayev 👋">
 </p>
 
-<h3 align="center">
-    Welcome to Shaydullayev's profile!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+<h1 align="center">A'zamjon Shaydullayev</h1>
 
 <p align="center">
-    <a href="https://github.com/Ulugbekivich/readme-typing-svg">
-        <img
-                src="https://readme-typing-svg.herokuapp.com/?lines=DotNet%20Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/AzamjonShaydullayev">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=61DAFB&center=true&vCenter=true&width=520&lines=.NET+%2F+Backend+Developer;C%23+%E2%80%A2+ASP.NET+Core+%E2%80%A2+PHP+%2F+Laravel;Telegram+bots+%26+API+integrations;Tashkent%2C+Uzbekistan+%F0%9F%87%BA%F0%9F%87%BF" alt="typing">
+  </a>
 </p>
 
-## 👨🏻‍💻 About Me:
-
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" height="250" />
-
-<br/>
-<br/>
-
-- 🌍 I'm dotNet developer from Uzbekistan 🇺🇿
-- 🔭 I’m currently working on My project
-- 🌱 I’m currently learning frontend 
-- 👯 I’m looking to collaborate on dotNet project
-- 💬 Ask me about dotNet
-
-<br/>
-
-## 📊 Github Stats ⚡
-
-![](https://github-readme-stats.vercel.app/api?username=ulugbekivich&show_icons=true&theme=tokyonight&border=61dafb&hide_border=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ulugbekivich&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ulugbekivich&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
-
-## 🛠️ My favorite tools
-
-### 👨‍💻 Programming Languages
-
-![C#](https://img.shields.io/badge/csharp-%2300599C.svg?style=flat&logo=csharp&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=C&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=flat&logo=amazon-dynamodb&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white)
-
-
-### 🧰 Frameworks and libraries
-
-<p>
-    <a href="#">
-        <img alt="ASP.NET"
-             src="https://img.shields.io/badge/ASP.NET-%23013243.svg?style=flat&logo=ASP.NET&logoColor=white"></a>
-    <a href="#">
-        <img alt=".NET6"
-             src="https://img.shields.io/badge/.NET6-%23150458.svg?style=flat&logo=.NET6&logoColor=white"></a>
-    <a href="#">
-        <img alt="ASP.NET Core"
-             src="https://img.shields.io/badge/ASP.NET CORE-%23EE4C2C.svg?style=flat&logo=ASP.NET Core&logoColor=white"/></a>
-    <a href="#">
-        <img alt="Entity%20Fraemwork%20Core"
-             src="https://img.shields.io/badge/Entity%20Fraemwork-092E20?style=flat&logo=Entity%20Fraemwork&logoColor=green"></a>
-    <a href="#">
-        <img alt="OpenCV"
-             src="https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=OpenCV&logoColor=white"/></a>
-    <a href="#">
-        <img alt="MVC"
-             src="https://img.shields.io/badge/MVC-43B02A?style=flat&logo=MVC&logoColor=white"/></a>
+<p align="center">
+  <a href="https://github.com/AzamjonShaydullayev?tab=followers"><img src="https://img.shields.io/github/followers/AzamjonShaydullayev?style=for-the-badge&logo=github&color=0d1117&labelColor=0d1117" alt="followers"></a>
+  <a href="https://www.linkedin.com/in/azamjonshaydullayev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
+  <a href="mailto:dizirocs@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email"></a>
 </p>
 
-### 🗄️ Databases
+---
 
-<p>
-    <a href="#">
-        <img alt="PostgreSQL"
-             src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/></a>
-    <a href="#">
-        <img alt="SQLite"
-             src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sql&logoColor=white"/></a>
-    <a href="#">
-        <img alt="MySql"
-             src="https://img.shields.io/badge/mysql-DDD7D9?style=flat&logo=mysql&logoColor=black"/></a>
-    <a href="#">
-        <img alt="SQLServer"
-             src="https://img.shields.io/badge/SQL%20Server-a9a9a9?style=flat&logo=amazon-dynamodb&logoColor=white"/></a>
+## 👨🏻‍💻 About me
+
+```csharp
+public class Azamjon : IDeveloper
+{
+    public string Role      => ".NET / Backend Developer";
+    public string Location  => "Uzbekistan 🇺🇿";
+    public string[] Daily   => ["C#", "ASP.NET Core", "EF Core", "PHP / Laravel", "SQL"];
+    public string[] Focus   => ["Clean Architecture", "REST APIs", "Telegram bots", "Payments"];
+    public string  FunFact  => "Ship it, then simplify it.";
+}
+```
+
+- 🏗️ Backend'ni **ASP.NET Core** va **Laravel** da yozaman, integratsiyalar — SMS, to'lov, provider API'lari
+- 🤖 Telegram botlar: buyurtma, to'lov (Telegram Stars), admin panel
+- 🧠 Hozir o'rganyapman: distributed systems, Docker/CI, performance tuning
+- 💬 So'rang: `C#` · `ASP.NET Core` · `EF Core` · `Laravel` · `PostgreSQL / SQL Server`
+
+---
+
+## 🚀 Hozirgi ish
+
+### 💫 [telegram-stars-payment](https://github.com/AzamjonShaydullayev/telegram-stars-payment)
+
+Telegram Stars orqali to'lov qabul qiluvchi bot: invoice yuborish → `pre_checkout_query` tasdiqlash → `successful_payment` update'ini ushlash → foydalanuvchiga chek. Webhook'da, tashqi kutubxonasiz, sof PHP.
+
+`PHP` · `Telegram Bot API` · `Webhook`
+
+<sub>Boshqa repozitoriylarim ko'proq eksperiment va o'quv ishlari —
+[hammasini ko'rish →](https://github.com/AzamjonShaydullayev?tab=repositories)</sub>
+
+---
+
+## 🛠️ Tech stack
+
+**Languages**
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-07405E?style=flat-square&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Frameworks & tools**
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=flat-square&logo=dotnet&logoColor=white)
+![EF Core](https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&logo=nuget&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+---
+
+## 📊 GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AzamjonShaydullayev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzamjonShaydullayev&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&exclude_repo=aspnetcore,website">
 </p>
 
-## 🙋‍♂️ Connect with me
-
-<p>
-    <a href="https://github.com/ulugbekivich">
-        <img alt="Github"
-             src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/ulugbekivich/">
-        <img alt="Linkedin"
-             src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AzamjonShaydullayev&theme=tokyonight&hide_border=true">
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AzamjonShaydullayev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7">
+</p>
+
+---
+
+<p align="center">
+  <i>“Eng yaxshi kod — yozilmagan kod.”</i>
+</p>
+
+<img src="https://raw.githubusercontent.com/AzamjonShaydullayev/AzamjonShaydullayev/main/assets/Bottom.svg" width="100%">
