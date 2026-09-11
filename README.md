@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://github.com/AzamjonShaydullayev?tab=followers"><img src="https://img.shields.io/github/followers/AzamjonShaydullayev?style=for-the-badge&logo=github&color=0d1117&labelColor=0d1117" alt="followers"></a>
   <a href="https://www.linkedin.com/in/ulugbekivich/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
-  <a href="mailto:dizirocs@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email"></a>
+  <a href="mailto:azamjondev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email"></a>
 </p>
 
 ---
