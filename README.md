@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/AzamjonShaydullayev?tab=followers"><img src="https://img.shields.io/github/followers/AzamjonShaydullayev?style=for-the-badge&logo=github&color=0d1117&labelColor=0d1117" alt="followers"></a>
-  <a href="https://www.linkedin.com/in/azamjonshaydullayev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
+  <a href="https://www.linkedin.com/in/ulugbekivich/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
   <a href="mailto:dizirocs@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email"></a>
 </p>
 
@@ -35,19 +35,6 @@ public class Azamjon : IDeveloper
 - 🤖 Telegram botlar: buyurtma, to'lov (Telegram Stars), admin panel
 - 🧠 Hozir o'rganyapman: distributed systems, Docker/CI, performance tuning
 - 💬 So'rang: `C#` · `ASP.NET Core` · `EF Core` · `Laravel` · `PostgreSQL / SQL Server`
-
----
-
-## 🚀 Hozirgi ish
-
-### 💫 [telegram-stars-payment](https://github.com/AzamjonShaydullayev/telegram-stars-payment)
-
-Telegram Stars orqali to'lov qabul qiluvchi bot: invoice yuborish → `pre_checkout_query` tasdiqlash → `successful_payment` update'ini ushlash → foydalanuvchiga chek. Webhook'da, tashqi kutubxonasiz, sof PHP.
-
-`PHP` · `Telegram Bot API` · `Webhook`
-
-<sub>Boshqa repozitoriylarim ko'proq eksperiment va o'quv ishlari —
-[hammasini ko'rish →](https://github.com/AzamjonShaydullayev?tab=repositories)</sub>
 
 ---
 
@@ -87,8 +74,8 @@ Telegram Stars orqali to'lov qabul qiluvchi bot: invoice yuborish → `pre_check
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.hackclub.dev/api?username=AzamjonShaydullayev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
-  <img height="165" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=AzamjonShaydullayev&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&exclude_repo=aspnetcore,website">
+  <img height="165" src="https://gh-readme-stats.vercel.app/api?username=AzamjonShaydullayev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
+  <img height="165" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=AzamjonShaydullayev&theme=tokyonight&hide_border=true&layout=compact&langs_count=8">
 </p>
 
 <p align="center">
