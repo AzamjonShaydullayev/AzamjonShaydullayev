@@ -87,5 +87,3 @@ public class Azamjon : IDeveloper
 <p align="center">
   <i>“Eng yaxshi kod — yozilmagan kod.”</i>
 </p>
-
-<img src="https://raw.githubusercontent.com/AzamjonShaydullayev/AzamjonShaydullayev/main/assets/Bottom.svg" width="100%">
